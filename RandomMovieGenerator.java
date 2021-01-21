@@ -2,7 +2,7 @@ package random.generator;
 
 import java.util.*;
 
-public class RandomGenerator {
+public class RandomMovieGenerator {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
